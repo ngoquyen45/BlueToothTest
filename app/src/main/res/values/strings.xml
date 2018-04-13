@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BlueTooth</string>
+    <string name="PD">Paired Devices</string>
+    <string name="on">Turn On</string>
+    <string name="off">Turn Off</string>
+    <string name="go">GO</string>
+    <string name="On">on</string>
+    <string name="Off">off</string>
+    <string name="turned">"LED is ON"</string>
+    <string name="unturned">"LED is OFF"</string>
+</resources>
